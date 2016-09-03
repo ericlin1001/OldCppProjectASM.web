@@ -1,0 +1,29 @@
+﻿Build started 2012/8/15 23:58:22.
+     1>Project "E:\C ++\C++Projects\web\sources\tinyxml\tinyXmlTest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D TUNE /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\\" /Fd"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\vc100.pdb" /FR"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\\" /Gd /TP /analyze- /errorReport:prompt xmltest.cpp
+         xmltest.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.lib" /MACHINE:X86 "E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.embed.manifest.res"
+         "E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\xmltest.obj"
+         "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.lib"
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.embed.manifest" /manifest "E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         tinyXmlTest.vcxproj -> E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe
+       BscMake:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.bsc" "E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\xmltest.sbr"
+       FinalizeBuildStatus:
+         Deleting file "E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.unsuccessfulbuild".
+         Touching "E:\C ++\C++Projects\web\sources\tinyxml\DebugtinyXmlTest\tinyXmlTest.lastbuildstate".
+     1>Done Building Project "E:\C ++\C++Projects\web\sources\tinyxml\tinyXmlTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.63

@@ -1,0 +1,22 @@
+﻿Build started 2013/3/24 22:50:02.
+     1>Project "E:\C ++\C++Projects\web\projects\httpRequest - 副本 - 副本\httpRequest\httpRequest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\httpRequest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C ++\C++Projects\web\projects\httpRequest - 副本 - 副本\Release\httpRequest.exe" /INCREMENTAL:NO /NOLOGO ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\httpRequest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C ++\C++Projects\web\projects\httpRequest - 副本 - 副本\Release\httpRequest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C ++\C++Projects\web\projects\httpRequest - 副本 - 副本\Release\httpRequest.lib" /MACHINE:X86 Release\httpRequest.obj
+         Release\main.obj
+         Generating code
+         Finished generating code
+         httpRequest.vcxproj -> E:\C ++\C++Projects\web\projects\httpRequest - 副本 - 副本\Release\httpRequest.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\C ++\C++Projects\web\projects\httpRequest - 副本 - 副本\Release\httpRequest.exe;#1" /manifest Release\httpRequest.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\httpRequest.unsuccessfulbuild".
+         Touching "Release\httpRequest.lastbuildstate".
+     1>Done Building Project "E:\C ++\C++Projects\web\projects\httpRequest - 副本 - 副本\httpRequest\httpRequest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.62

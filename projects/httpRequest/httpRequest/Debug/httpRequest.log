@@ -1,0 +1,73 @@
+﻿Build started 2013/2/25 23:40:20.
+     1>Project "E:\C ++\C++Projects\web\projects\httpRequest\httpRequest\httpRequest.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\C ++\C++Projects\web\projects\httpRequest\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\httpRequest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt httpRequest.cpp main.cpp tinystr.cpp tinyxml.cpp tinyxmlerror.cpp tinyxmlparser.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         main.cpp
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\main.cpp(57): warning C4996: 'tmpfile': This function or variable may be unsafe. Consider using tmpfile_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(338) : see declaration of 'tmpfile'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\main.cpp(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\main.cpp(100): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\main.cpp(103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+         httpRequest.cpp
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(105): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(238) : see declaration of 'strdup'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(106): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : see declaration of 'strupr'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(110): warning C4005: 'lstrcpyn' : macro redefinition
+                 c:\program files\microsoft sdks\windows\v7.0a\include\winbase.h(6118) : see previous definition of 'lstrcpyn'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(114): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(118): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(132): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(135): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(195): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(206): warning C4005: 'wsprintf' : macro redefinition
+                 c:\program files\microsoft sdks\windows\v7.0a\include\winuser.h(253) : see previous definition of 'wsprintf'
+     1>e:\c ++\c++projects\web\projects\httprequest\httprequest\httprequest.cpp(209): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\httpRequest.exe.embed.manifest.res" Debug\httpRequest_manifest.rc 
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C ++\C++Projects\web\projects\httpRequest\Debug\httpRequest.exe" /INCREMENTAL /NOLOGO ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\httpRequest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C ++\C++Projects\web\projects\httpRequest\Debug\httpRequest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C ++\C++Projects\web\projects\httpRequest\Debug\httpRequest.lib" /MACHINE:X86 Debug\httpRequest.exe.embed.manifest.res
+         Debug\httpRequest.obj
+         Debug\main.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\httpRequest.exe.embed.manifest" /manifest Debug\httpRequest.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\httpRequest.exe.embed.manifest.res" Debug\httpRequest_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C ++\C++Projects\web\projects\httpRequest\Debug\httpRequest.exe" /INCREMENTAL /NOLOGO ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\httpRequest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C ++\C++Projects\web\projects\httpRequest\Debug\httpRequest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C ++\C++Projects\web\projects\httpRequest\Debug\httpRequest.lib" /MACHINE:X86 Debug\httpRequest.exe.embed.manifest.res
+         Debug\httpRequest.obj
+         Debug\main.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         httpRequest.vcxproj -> E:\C ++\C++Projects\web\projects\httpRequest\Debug\httpRequest.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\httpRequest.unsuccessfulbuild".
+         Touching "Debug\httpRequest.lastbuildstate".
+     1>Done Building Project "E:\C ++\C++Projects\web\projects\httpRequest\httpRequest\httpRequest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.64

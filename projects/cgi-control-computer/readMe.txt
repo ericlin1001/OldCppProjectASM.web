@@ -1,0 +1,1 @@
+this project is working with Project:E:\C ++\C++Projects\console\InerProcessComm

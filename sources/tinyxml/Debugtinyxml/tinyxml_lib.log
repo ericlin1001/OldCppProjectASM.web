@@ -1,0 +1,27 @@
+﻿Build started 2012/8/15 23:27:51.
+     1>Project "E:\C ++\C++Projects\web\sources\tinyxml\tinyxml_lib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\\" /Fd"E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\vc100.pdb" /FR"E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\\" /Gd /TP /analyze- /errorReport:prompt tinystr.cpp tinyxml.cpp tinyxmlerror.cpp tinyxmlparser.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         Generating Code...
+       Lib:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.lib" /NOLOGO "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinystr.obj"
+         "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.obj"
+         "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxmlerror.obj"
+         "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxmlparser.obj"
+         tinyxml_lib.vcxproj -> E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.lib
+       BscMake:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.bsc" "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinystr.sbr" "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.sbr" "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxmlerror.sbr" "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxmlparser.sbr"
+       FinalizeBuildStatus:
+         Deleting file "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.unsuccessfulbuild".
+         Touching "E:\C ++\C++Projects\web\sources\tinyxml\Debugtinyxml\tinyxml.lastbuildstate".
+     1>Done Building Project "E:\C ++\C++Projects\web\sources\tinyxml\tinyxml_lib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.95
